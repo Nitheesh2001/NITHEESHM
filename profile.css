@@ -1,0 +1,12 @@
+.myprofile{
+    text-align: center;
+    color: blue;
+
+}
+.myname {
+    background-color: rgb(251, 249, 249);
+    width: 100%;
+    border: 2px solid rgb(77, 7, 219);
+    padding: 100%;
+    margin: 20px;
+}
