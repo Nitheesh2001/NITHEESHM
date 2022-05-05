@@ -10,3 +10,9 @@
     padding: 8%;
     margin: 48px;
 }
+.button{
+    font-size: 40px;
+    background-color: black;
+    color: #fff;
+    margin-left: 42%;
+}
